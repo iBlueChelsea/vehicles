@@ -20,4 +20,11 @@
 8 tálblázatban lássuk a végén az eredményt. autó típusa szine stb. és a metódusok meghívásának az eredményét
 
 9. echo OSztálynév-re írja ki az osztálynak a nevét.
-    
+
+A feladat egy weboldal készítése
+
+1. Főoldal: Logó, menüpontok, random szöveg és footer rész
+2. Minden menüpont külön page de a page-ek kezelésére írj egy osztályt. 
+3. Ha az autó/motor menüpontra kattituntunk, akkor listázzódjanak ki a járművek.
+4. Legyen midnen járműnek saját adatlapja, amin megtudjuk nézni a részleteket.
+5. Kapcsolat menüpontban egy test form ahol lehet üzenetet írni
