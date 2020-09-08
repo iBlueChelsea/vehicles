@@ -5,7 +5,7 @@ require_once 'navbar.php';
 $content = '<div class="container rounded bg-light">';
 
 $content .= '
-<h2 align="center">Contact us!</h2>
+<hr><h2 align="center">Contact us!</h2>
 <form>
 <div class="form-row">
 <div class="form-group col-md-6">
@@ -34,7 +34,7 @@ $content .= '
 </div>
 </div>
 <button type="submit" class="btn btn-primary">Submit</button>
-</form>';
+</form><hr>';
 
 $content .= '</div>';
 
